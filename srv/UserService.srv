@@ -1,0 +1,6 @@
+string BagPath
+string WholePath
+int64 BodyID
+string BagState
+---
+bool Status
